@@ -24,14 +24,14 @@ this Complex-MSTAR dataset is based on the original MSTAR program. we do not par
 the Complex-MSTAR dataset provide both size of 64x64 and 128x128 for different task requriements.
 
 # requriements
----python 3.7
----pytorch 1.6
----CUDA 10.1
+---python 3.7  
+---pytorch 1.6  
+---CUDA 10.1  
 
 # Training
-'"
+``
 python Train.py
-'"
+``
                                   
 
 
