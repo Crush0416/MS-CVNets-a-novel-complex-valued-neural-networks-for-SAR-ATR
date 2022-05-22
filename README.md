@@ -9,18 +9,18 @@ The code in this toolbox implements the "SAR Automatic Target Recognition Method
 this Complex-MSTAR dataset is based on the original MSTAR program. we do not participate in the data acquisition work, only data redistribution and collation. the complex-mstar dataset structure is as follows:
 
 ---Complex-MSTAR-<br>
-                -data_SOC-class10-trian-imgs<br>
-                                       -data_train_64.mat<br>
-                                       -data_train_128.mat<br>
-                                 -test-data_test_64.mat<br>
-                                      -data_test_128.mat<br>
-                         -calss3-trian--data_train_64.mat<br>
-                                       -data_train_128.mat<br>
-                                -test-data_test_64.mat<br>
-                                      -data_test_128.mat<br>
-                -data_EOC-depression_variation<br>
-                         -noise varision<br>
-                         -version variation<br>
+-----------------data_SOC-class10-trian-imgs<br>
+----------------------------------------data_train_64.mat<br>
+----------------------------------------data_train_128.mat<br>
+----------------------------------test-data_test_64.mat<br>
+---------------------------------------data_test_128.mat<br>
+-------------------------calss3-trian--data_train_64.mat<br>
+---------------------------------------data_train_128.mat<br>
+----------------------------------test-data_test_64.mat<br>
+---------------------------------------data_test_128.mat<br>
+-----------------data_EOC-depression_variation<br>
+------------------------ -noise varision<br>
+--------------------------version variation<br>
 the Complex-MSTAR dataset provide both size of 64*64 and 128*128 for different task requriements.
                                   
 
