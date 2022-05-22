@@ -29,13 +29,13 @@ the Complex-MSTAR dataset provide both size of 64x64 and 128x128 for different t
 ---CUDA 10.1  
 
 # Training
-``
+
 -             python Train.py                        
-``
+
 # Testing
-``
-              python Test.py                 
-``
+
+-              python Test.py                 
+
 
 # Citation
 please kindly cite this paper if our MS-CVNets can give you any inspiration for your research, thanks a lot.
@@ -48,7 +48,9 @@ Zhiqiang Zeng
 Email:zengzq@buaa.edu.cn  
 
 # references
-
-                                  
+1. the original MSTAR dataset information:  https://www.sdms.afrl.af.mil/
+2. we would like to appreciate the ChihebTrabelsi, wavefrontshaping and ivannz in the help of coding basis. we bulid the MS-CVNets principal framework on their basis. 3. https://github.com/ivannz/cplxmodule  
+4. https://github.com/wavefrontshaping/complexPyTorch  
+5. https://github.com/ChihebTrabelsi/deep_complex_networks                            
 
 
