@@ -21,7 +21,17 @@ this Complex-MSTAR dataset is based on the original MSTAR program. we do not par
 -----------------data_EOC-depression_variation<br>
 ------------------------ -noise varision<br>
 --------------------------version variation<br>
-the Complex-MSTAR dataset provide both size of 64*64 and 128*128 for different task requriements.
+the Complex-MSTAR dataset provide both size of 64x64 and 128x128 for different task requriements.
+
+# requriements
+---python 3.7
+---pytorch 1.6
+---CUDA 10.1
+
+# Training
+'"
+python Train.py
+'"
                                   
 
 
