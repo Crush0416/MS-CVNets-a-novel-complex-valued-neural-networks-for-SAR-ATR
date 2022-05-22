@@ -30,8 +30,25 @@ the Complex-MSTAR dataset provide both size of 64x64 and 128x128 for different t
 
 # Training
 ``
-python Train.py
+-             python Train.py                        
 ``
+# Testing
+``
+              python Test.py                 
+``
+
+# Citation
+please kindly cite this paper if our MS-CVNets can give you any inspiration for your research, thanks a lot.
+
+
+
+
+# Contact
+Zhiqiang Zeng  
+Email:zengzq@buaa.edu.cn  
+
+# references
+
                                   
 
 
