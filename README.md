@@ -8,9 +8,9 @@ The code in this toolbox implements the "SAR Automatic Target Recognition Method
 # Complex-MSTAR dataset
 this Complex-MSTAR dataset is based on the original MSTAR program. we do not participate in the data acquisition work, only data redistribution and collation. the complex-mstar dataset structure is as follows:
 
----Complex-MSTAR-
-                -data_SOC-class10-trian-imgs
-                                       -data_train_64.mat
+---Complex-MSTAR-\n
+                -data_SOC-class10-trian-imgs\n
+                                       -data_train_64.mat\n
                                        -data_train_128.mat
                                  -test-data_test_64.mat
                                       -data_test_128.mat
