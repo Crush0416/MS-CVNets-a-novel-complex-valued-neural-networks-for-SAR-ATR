@@ -38,7 +38,7 @@ the Complex-MSTAR dataset provide both size of 64x64 and 128x128 for different t
 
 
 # Citation
-please kindly cite this paper if our MS-CVNets can give you any inspiration for your research, thanks a lot.  
+please kindly cite this paper if our MS-CVNets can give you any inspiration for your research.  
 
 Z. Zeng, J. Sun, Z. Han and W. Hong, "SAR Automatic Target Recognition Method Based on Multi-Stream Complex-Valued Networks," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-18, 2022, Art no. 5228618, doi: 10.1109/TGRS.2022.3177323.
 
